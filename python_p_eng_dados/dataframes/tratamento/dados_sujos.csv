@@ -1,0 +1,6 @@
+produto,quantidade,preco_unitario,cliente_vip,data
+Café,3,6.5,TRUE,01/04/2025
+Pão, ,1.2,FALSE,02/04/2025
+Suco,2,,TRUE,02/04/2025
+Café,1,6.5, ,03/04/2025
+Bolo,1,15.0,FALSE,
